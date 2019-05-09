@@ -154,7 +154,7 @@ __asm {						//execve("/bin/sh", &"/bin/sh", NULL);
 }
 ```
 
-스택 프래임을 작성해보면 아래와 같다
+스택 프레임을 작성해보면 아래와 같다
 
 Stack | Explanation
 ---- | ----
